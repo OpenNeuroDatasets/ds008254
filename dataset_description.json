@@ -32,5 +32,5 @@
         "OPTIONAL. List of references to publication that contain information on the dataset, or links",
         "https://github.com/Donders-Institute/bidscoin"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds008254.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds008254.v1.0.1"
 }
