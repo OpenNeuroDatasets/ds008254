@@ -1,4 +1,4 @@
 filename	acq_time
 anat/sub-142_acq-iso1mm_T1w.nii.gz	2021-10-14T19:51:23.035000
 func/sub-142_task-flexibilitystability_run-1_bold.nii.gz	2021-10-14T20:27:32.415000
-func/sub-142_task-PA_dir-PA_bold.nii.gz	2021-10-14T20:54:41.385000
+fmap/sub-142_dir-PA_epi.nii.gz	2021-10-14T20:54:41.385000
