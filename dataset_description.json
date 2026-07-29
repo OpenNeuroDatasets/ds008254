@@ -4,7 +4,8 @@
     "DatasetType": "raw",
     "License": "CC0",
     "Authors": [
-        "OPTIONAL. List of individuals who contributed to the creation/curation of the dataset"
+        "Lei Qiao",
+        "Lijie Zhang"
     ],
     "Acknowledgements": "OPTIONAL. Text acknowledging contributions of individuals or institutions beyond those listed in Authors or Funding. T1w anatomical images were defaced using pydeface facemask/template with SimpleITK affine registration (Defaced T1w Structural MRI Dataset processing step).",
     "HowToAcknowledge": "OPTIONAL. Instructions how researchers using this dataset should acknowledge the original authors. This field can also be used to define a publication that should be cited in publications that use the dataset",
