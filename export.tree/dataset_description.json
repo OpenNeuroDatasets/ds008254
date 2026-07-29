@@ -1,0 +1,31 @@
+{
+    "Name": "Salience Network Gates Adaptive Control",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Lei Qiao",
+        "Lijie Zhang"
+    ],
+    "Acknowledgements": "T1w anatomical images were defaced using pydeface facemask/template with SimpleITK affine registration (Defaced T1w Structural MRI Dataset processing step).",
+    "HowToAcknowledge": "",
+    "Funding": [],
+    "EthicsApprovals": [],
+    "GeneratedBy": [
+        {
+            "Name": "BIDScoin",
+            "Version": "4.6.1",
+            "Description": "A flexible GUI application suite that converts source datasets to BIDS",
+            "CodeURL": "https://github.com/Donders-Institute/bidscoin"
+        },
+        {
+            "Name": "pydeface-templates + SimpleITK affine registration",
+            "Version": "1.0.0",
+            "Description": "Facial features removed using pydeface facemask/template with SimpleITK registration (FSL-free Windows implementation)."
+        }
+    ],
+    "ReferencesAndLinks": [
+        "https://github.com/Donders-Institute/bidscoin"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008254.v1.0.4"
+}
